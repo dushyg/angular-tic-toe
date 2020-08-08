@@ -1,0 +1,11 @@
+div.board-container {
+
+  display: flex;
+  width: 330px;
+  height: 330px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-shrink: 1;
+  flex-wrap: wrap;
+}
